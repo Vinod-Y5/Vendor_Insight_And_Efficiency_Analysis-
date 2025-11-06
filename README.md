@@ -82,10 +82,12 @@ The analysis delivers actionable insights for procurement and business strategy.
 ---
 
 ## 🧾 Report
-📄 [View Full Report (PDF)](Vendor Performance Report.pdf)
+📄 [View Full Report (PDF)](Vendor%20Performance%20Report.pdf)
 
 > The report summarizes key findings, methodology, and recommendations for vendor and inventory performance optimization.
 
+
 ---
+
 
 
